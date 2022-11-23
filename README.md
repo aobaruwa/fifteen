@@ -18,9 +18,12 @@ Tile to move:
 1. The game board is made up of a square multidimentional array.
 2. The function greet() is called to greet the player at game start.
 3. The functions: init(), draw(), move(), and won().
-```
+
 How to Compile
+```
 gcc -o fifteen -c fifteen.c
 ```
 How to Run 
+```
 ./fifteen $board_dimension
+```
