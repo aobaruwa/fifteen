@@ -19,7 +19,7 @@ How to Compile
 ```
 make
 ```
-How to Run 
+How to Play 
 ```
 ./fifteen $board_dimension
 ```
