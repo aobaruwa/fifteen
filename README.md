@@ -17,7 +17,7 @@ Tile to move:
 
 How to Compile
 ```
-gcc -o fifteen -c fifteen.c
+make
 ```
 How to Run 
 ```
